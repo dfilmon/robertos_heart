@@ -17,7 +17,7 @@ export default function Hero() {
             <div class="w-full lg:w-1/2">
               <div class="lg:max-w-lg">
                 <h1 class="text-3xl font-semibold text-gray-800 dark:text-white lg:text-8xl lg:font-black mr-3">
-                  Healing & Active Support After Gun Violence
+                  Healing & Active <Aid></Aid> After Gun Violence
                 </h1>
 
                 <p class="mt-4 text-gray-600 dark:text-gray-400 text-2xl font-bold">

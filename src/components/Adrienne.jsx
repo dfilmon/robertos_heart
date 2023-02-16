@@ -23,7 +23,8 @@ function Adrienne() {
                 href="#"
                 class="block mt-4 text-2xl font-semibold text-gray-800 hover:underline dark:text-white md:text-3xl"
               >
-                All the features you want to know
+               Every features that you need
+                 to know for you help.
               </a>
 
               <p class="mt-3 text-sm text-gray-500 dark:text-gray-300 md:text-sm">

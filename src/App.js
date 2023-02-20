@@ -2,7 +2,7 @@ import React from 'react';
 import Nav from './components/Nav';
 import Hero from './components/Hero';
 import Mission from './components/Mission';
-import Testimonials from './components/Testimonials';
+import AboutUs from './components/AboutUs';
 import Donors from './components/Donors';
 import Team from './components/Team';
 import Adrienne from './components/Adrienne';
@@ -16,7 +16,7 @@ export default function App() {
       <Hero />
       <Donors />
       <Mission />
-      <Testimonials />
+      <AboutUs />
       <Team />
     </div>
   );

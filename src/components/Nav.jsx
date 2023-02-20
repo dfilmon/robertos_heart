@@ -89,7 +89,7 @@ export default function Nav() {
           </li>
           <li>
             <a class="text-sm brandColorText font-bold" href="#">
-              About Us
+              Our Partners
             </a>
           </li>
           <li class="text-gray-300">
@@ -131,7 +131,7 @@ export default function Nav() {
           </li>
           <li>
             <a class="text-sm text-gray-400 hover:text-gray-500" href="#">
-              Pricing
+              Our Story
             </a>
           </li>
           <li class="text-gray-300">
@@ -152,7 +152,7 @@ export default function Nav() {
           </li>
           <li>
             <a class="text-sm text-gray-400 hover:text-gray-500" href="#">
-              Contact
+              Our Team
             </a>
           </li>
         </ul>

@@ -88,6 +88,24 @@ export default function Team() {
 
               <button>Let's Connect</button>
             </div>
+
+            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group brandColor hover:brandColor dark:border-gray-700 dark:hover:border-transparent">
+              <img
+                class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300"
+                src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+                alt=""
+              />
+
+              <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">
+                Volunteer
+              </h1>
+
+              <p class="mt-2 text-white capitalize dark:white group-hover:text-white">
+                Full stack developer
+              </p>
+
+              <button>Let's Connect</button>
+            </div>
           </div>
         </div>
       </section>

@@ -7,7 +7,7 @@ export default function Mission() {
         <div class="container px-6 py-10 mx-auto mb-64 mt-24">
           <div class="text-center">
             <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">
-              Services
+              Our Services
             </h1>
             {/* 
             1. Mort. / Off white
@@ -24,7 +24,7 @@ export default function Mission() {
             <div>
               <img
                 class="relative z-10 object-cover w-full rounded-md h-96"
-                src="https://images.unsplash.com/photo-1644018335954-ab54c83e007f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+                src="https://images.unsplash.com/photo-1522752622479-65eefd320386?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2560&q=80"
                 alt=""
               />
 
@@ -33,7 +33,7 @@ export default function Mission() {
                   href="#"
                   class="font-semibold text-gray-800 hover:underline dark:text-white md:text-xl"
                 >
-                  All the features you want to know
+                  Mortuary Assistance
                 </a>
 
                 <p class="mt-3 text-sm text-gray-500 dark:text-gray-300 md:text-sm">
@@ -41,14 +41,16 @@ export default function Mission() {
                   veritatis sint autem nesciunt, laudantium quia tempore delect
                 </p>
 
-                <p class="mt-3 text-sm text-blue-500">21 October 2019</p>
+                <button class="w-1/2 px-5 py-2 text-sm tracking-wide text-white transition-colors duration-200 bg-blue-500 rounded-lg shrink-0 sm:w-auto hover:bg-blue-600 dark:hover:bg-blue-500 dark:bg-blue-600">
+                  Request Service
+                </button>
               </div>
             </div>
 
             <div>
               <img
                 class="relative z-10 object-cover w-full rounded-md h-96"
-                src="https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+                src="https://images.unsplash.com/photo-1555848962-6e79363ec58f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2866&q=80"
                 alt=""
               />
 
@@ -57,7 +59,7 @@ export default function Mission() {
                   href="#"
                   class="font-semibold text-gray-800 hover:underline dark:text-white md:text-xl"
                 >
-                  How to use sticky note for problem solving
+                  Legal Advocacy
                 </a>
 
                 <p class="mt-3 text-sm text-gray-500 dark:text-gray-300 md:text-sm">
@@ -65,14 +67,14 @@ export default function Mission() {
                   veritatis sint autem nesciunt, laudantium quia tempore delect
                 </p>
 
-                <p class="mt-3 text-sm text-blue-500">20 October 2019</p>
+                <p class="mt-3 text-sm text-blue-500">Request Service</p>
               </div>
             </div>
 
             <div>
               <img
                 class="relative z-10 object-cover w-full rounded-md h-96"
-                src="https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+                src="https://images.unsplash.com/photo-1573495804664-b1c0849525af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80"
                 alt=""
               />
 
@@ -81,7 +83,7 @@ export default function Mission() {
                   href="#"
                   class="font-semibold text-gray-800 hover:underline dark:text-white md:text-xl"
                 >
-                  How to use sticky note for problem solving
+                  Counseling Services
                 </a>
 
                 <p class="mt-3 text-sm text-gray-500 dark:text-gray-300 md:text-sm">
@@ -89,7 +91,7 @@ export default function Mission() {
                   veritatis sint autem nesciunt, laudantium quia tempore delect
                 </p>
 
-                <p class="mt-3 text-sm text-blue-500">20 October 2019</p>
+                <p class="mt-3 text-sm text-blue-500">Request Service</p>
               </div>
             </div>
           </div>

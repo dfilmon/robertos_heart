@@ -110,7 +110,7 @@ export default function Nav() {
           </li>
           <li>
             <a class="text-sm text-gray-400 hover:text-gray-500" href="#">
-              Services
+              Our Services
             </a>
           </li>
           <li class="text-gray-300">

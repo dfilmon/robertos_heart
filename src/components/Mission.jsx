@@ -4,7 +4,7 @@ export default function Mission() {
   return (
     <div>
       <section class="bg-white dark:bg-gray-900">
-        <div class="container px-6 py-10 mx-auto mb-64 mt-24">
+        <div class="container px-6 py-10 mx-auto mt-24">
           <div class="text-center">
             <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">
               Our Services
@@ -37,12 +37,13 @@ export default function Mission() {
                 </a>
 
                 <p class="mt-3 text-sm text-gray-500 dark:text-gray-300 md:text-sm">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure
-                  veritatis sint autem nesciunt, laudantium quia tempore delect
+                  A monetary donation toward mortuary care and ongoing
+                  assistance with planning and arrangements.
                 </p>
 
-                <button class="w-1/2 px-5 py-2 text-sm tracking-wide text-white transition-colors duration-200 bg-blue-500 rounded-lg shrink-0 sm:w-auto hover:bg-blue-600 dark:hover:bg-blue-500 dark:bg-blue-600">
-                  Request Service
+                <button class="text-black w-50 font-semibold h-16 px-5 py-2 mt-6 text-sm tracking-wider uppercase duration-300 transform rounded-md focus:outline-none subBrandColor ">
+                  Request Services
+                  {/* Services pushes down to a list of services with the Donate call to action */}
                 </button>
               </div>
             </div>
@@ -63,11 +64,14 @@ export default function Mission() {
                 </a>
 
                 <p class="mt-3 text-sm text-gray-500 dark:text-gray-300 md:text-sm">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure
-                  veritatis sint autem nesciunt, laudantium quia tempore delect
+                  Provide experience-based counsel to help you navigate all
+                  legal matters, tailored to your needs.
                 </p>
 
-                <p class="mt-3 text-sm text-blue-500">Request Service</p>
+                <button class="text-black w-50 font-semibold h-16 px-5 py-2 mt-6 text-sm tracking-wider uppercase duration-300 transform rounded-md focus:outline-none subBrandColor ">
+                  Request Services
+                  {/* Services pushes down to a list of services with the Donate call to action */}
+                </button>
               </div>
             </div>
 
@@ -87,11 +91,14 @@ export default function Mission() {
                 </a>
 
                 <p class="mt-3 text-sm text-gray-500 dark:text-gray-300 md:text-sm">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure
-                  veritatis sint autem nesciunt, laudantium quia tempore delect
+                  One-on-one & group counseling provided by trained
+                  professionals to assist with your healing journey.
                 </p>
 
-                <p class="mt-3 text-sm text-blue-500">Request Service</p>
+                <button class="text-black w-50 font-semibold h-16 px-5 py-2 mt-6 text-sm tracking-wider uppercase duration-300 transform rounded-md focus:outline-none subBrandColor ">
+                  Request Services
+                  {/* Services pushes down to a list of services with the Donate call to action */}
+                </button>
               </div>
             </div>
           </div>

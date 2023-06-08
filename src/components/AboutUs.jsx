@@ -28,10 +28,10 @@ export default function Testimonials() {
             </video>
 
             <div class="mt-8 lg:w-1/2 lg:px-6 lg:mt-0">
-              <p class="text-5xl font-semibold text-blue-500 ">“</p>
+              <p class="text-5xl font-semibold text-black-500 ">“</p>
 
               <h1 class="text-2xl font-semibold text-gray-800 dark:text-white lg:text-3xl lg:w-96">
-                Help us improve our productivity
+                A word from the Founder
               </h1>
 
               <p class="max-w-lg mt-6 text-gray-500 dark:text-gray-400 ">
@@ -41,9 +41,9 @@ export default function Testimonials() {
                 culpa aperiam dolorum, obcaecati corrupti aspernatur a. ”
               </p>
 
-              <h3 class="mt-6 text-lg font-medium text-blue-500">Mia Brown</h3>
+              <h3 class="mt-6 text-lg font-medium text-black-500">LaMona N. Marshall Brown</h3>
               <p class="text-gray-600 dark:text-gray-300">
-                Marketing Manager at Stech
+                Founder & CEO
               </p>
 
               <div class="flex items-center justify-between mt-12 lg:justify-start">

@@ -28,7 +28,14 @@
   color: #ef4929;
 }
 
-
 .brandColor:hover {
   background-color: #ff5b3b;
+}
+
+.subBrandColor {
+  background-color: #fceac8;
+}
+
+.subBrandColor {
+  color: black;
 }

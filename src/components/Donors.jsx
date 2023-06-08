@@ -13,9 +13,9 @@ export default function Donors() {
           </h1>
 
           <main class="relative mb-40 z-20 w-full mt-8 md:flex md:items-center xl:mt-12">
-            <div class="absolute w-full brandColor -z-10 md:h-96 rounded-2xl "></div>
+            <div class="absolute w-full subBrandColor -z-10 md:h-96 rounded-2xl "></div>
 
-            <div class="w-full p-6 brandColor md:items-center rounded-2xl md:bg-transparent md:p-0 lg:px-12 md:justify-evenly z-10  ">
+            <div class="w-full p-6 subBrandColor md:items-center rounded-2xl md:bg-transparent md:p-0 lg:px-12 md:justify-evenly z-10  ">
               <img
                 class=" lg:h-96 lg:absolute lg:bottom-0  lg:left-12 sm:rounded-2xl rounded-2xl sm:h-24 sm:w-24  md:mx-6  lg:rounded-2xl sm:rounded-2xl object-cover shadow-md  md:w-30 md:h-30  lg:w-80 lg:h-[36rem] lg:w-[26rem] md:rounded-2xl"
                 src="https://lh3.googleusercontent.com/pw/AL9nZEVKWB8j65ARer1LRZToI3i1Fr5BJ3gFt7HH8AjemfK8x36UL5E2PGv15WyiODz3AtMLd296x4qE94eUKkg1jufL85dliqC2cnFLIy2y2jr_Mb1r-cQJ_pmOrWu2u3aOtouNFaDkpXqA8SIh7ZgGPTxB=w881-h1321-no?authuser=1"
@@ -24,7 +24,7 @@ export default function Donors() {
 
               <div class="mt-2 md:mx-6 lg:pl-96 sm:pl-2 sm:mt-7 sm:pr-12">
                 <div>
-                  <p class="text-3xl font-medium tracking-tight text-white">
+                  <p class="text-3xl font-medium tracking-tight text-black">
                     Ema Watson
                   </p>
                   <p class="text-black font-bold ">
@@ -32,7 +32,7 @@ export default function Donors() {
                   </p>
                 </div>
 
-                <p class="mt-4 text-lg leading-relaxed text-white md:text-xl">
+                <p class="mt-4 text-lg leading-relaxed text-black md:text-xl">
                   {' '}
                   “Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                   Tempore quibusdam ducimus libero ad tempora doloribus expedita
@@ -42,7 +42,7 @@ export default function Donors() {
                 <div class="flex items-center justify-between mt-6 md:justify-start">
                   <button
                     title="left arrow"
-                    class="p-2 text-white transition-colors duration-300 border rounded-full rtl:-scale-x-100 hover:brandColor"
+                    class="p-2 text-black transition-colors duration-300 border rounded-full rtl:-scale-x-100 hover:brandColor"
                   >
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -62,7 +62,7 @@ export default function Donors() {
 
                   <button
                     title="right arrow"
-                    class="p-2 text-white transition-colors duration-300 border rounded-full rtl:-scale-x-100 md:mx-6 hover:brandColor"
+                    class="p-2 text-black transition-colors duration-300 border rounded-full rtl:-scale-x-100 md:mx-6 hover:brandColor"
                   >
                     <svg
                       xmlns="http://www.w3.org/2000/svg"

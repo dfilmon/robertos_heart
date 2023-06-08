@@ -11,101 +11,89 @@ export default function Team() {
           </h1>
 
           <p class="max-w-2xl mx-auto my-6 text-center white dark:white">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo
-            incidunt ex placeat modi magni quia error alias, adipisci rem
-            similique, at omnis eligendi optio eos harum.
+          We are a growing team committed to the legacy of Roberto A. Marshall through healing an assistance after gun-violence. Together we operate, a triage supportive action team of volunteers and paid staff to help you move from tragedy to triumph.
           </p>
 
-          <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-16 md:grid-cols-2 xl:grid-cols-4">
-            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group brandColor hover:brandColor dark:border-gray-700 dark:hover:border-transparent">
+          <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-16 md:grid-cols-2 xl:grid-cols-3">
+            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group subBrandColor hover:subBrandColor dark:border-gray-700 dark:hover:border-transparent">
               <img
                 class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300"
                 src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
                 alt=""
               />
 
-              <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">
-                arthur melo
+              <h1 class="mt-4 text-2xl font-semibold text-black capitalize dark:text-black group-hover:text-black">
+                LaMona N. Marshall
               </h1>
 
-              <p class="mt-2 text-white capitalize dark:white group-hover:text-white">
-                design director
+              <p class="mt-2 text-black capitalize dark:black group-hover:text-black">
+                Founder & CEO
               </p>
-
-              <button>Let's Connect</button>
             </div>
 
-            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group brandColor hover:brandColor dark:border-gray-700 dark:hover:border-transparent">
+            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group subBrandColor hover:subBrandColor dark:border-gray-700 dark:hover:border-transparent">
               <img
                 class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300"
                 src="https://images.unsplash.com/photo-1531590878845-12627191e687?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
                 alt=""
               />
 
-              <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">
-                Amelia. Anderson
+              <h1 class="mt-4 text-2xl font-semibold text-black capitalize dark:text-black group-hover:text-black">
+                Lamar D. Peoples
               </h1>
 
-              <p class="mt-2 text-white capitalize dark:white group-hover:text-white">
-                Lead Developer
+              <p class="mt-2 text-black capitalize dark:black group-hover:text-black">
+                Director of Operations
               </p>
-
-              <button>Let's Connect</button>
             </div>
 
-            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group brandColor hover:brandColor dark:border-gray-700 dark:hover:border-transparent">
+            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group subBrandColor hover:subBrandColor dark:border-gray-700 dark:hover:border-transparent">
               <img
                 class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300"
                 src="https://images.unsplash.com/photo-1488508872907-592763824245?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
                 alt=""
               />
 
-              <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">
-                Olivia Wathan
+              <h1 class="mt-4 text-2xl font-semibold text-black capitalize dark:text-black group-hover:text-black">
+                Devin D. Dill
               </h1>
 
-              <p class="mt-2 text-white capitalize dark:white group-hover:text-white">
-                Lead designer
+              <p class="mt-2 text-black capitalize dark:black group-hover:text-black">
+                Board Chair
               </p>
-
-              <button>Let's Connect</button>
             </div>
 
-            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group brandColor hover:brandColor dark:border-gray-700 dark:hover:border-transparent">
+            {/* <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group subBrandColor hover:subBrandColor dark:border-gray-700 dark:hover:border-transparent">
               <img
                 class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300"
                 src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
                 alt=""
               />
 
-              <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">
+              <h1 class="mt-4 text-2xl font-semibold text-black capitalize dark:text-black group-hover:text-black">
                 John Doe
               </h1>
 
-              <p class="mt-2 text-white capitalize dark:white group-hover:text-white">
+              <p class="mt-2 text-black capitalize dark:black group-hover:text-black">
                 Full stack developer
               </p>
+            </div> */}
 
-              <button>Let's Connect</button>
-            </div>
-
-            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group brandColor hover:brandColor dark:border-gray-700 dark:hover:border-transparent">
+            {/* <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group subBrandColor hover:subBrandColor dark:border-gray-700 dark:hover:border-transparent">
               <img
                 class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300"
                 src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
                 alt=""
               />
 
-              <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">
+              <h1 class="mt-4 text-2xl font-semibold text-black capitalize dark:text-black group-hover:text-black">
                 Volunteer
               </h1>
 
-              <p class="mt-2 text-white capitalize dark:white group-hover:text-white">
+              <p class="mt-2 text-black capitalize dark:black group-hover:text-black">
                 Full stack developer
               </p>
-
-              <button>Let's Connect</button>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>

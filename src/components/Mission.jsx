@@ -15,8 +15,10 @@ export default function Mission() {
             3. Counceling Service / Purple */}
 
             <p class="max-w-lg mx-auto mt-4 text-gray-500">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure
-              veritatis sint autem nesciunt, laudantium quia tempore delect
+              We support the families and victims of gun-violence with a
+              trauma-informed approach. Our community partnerships and staff
+              will assist you with healing and assistance for as long as it
+              takes.
             </p>
           </div>
 
@@ -41,10 +43,12 @@ export default function Mission() {
                   assistance with planning and arrangements.
                 </p>
 
-                <button class="text-black w-50 font-semibold h-16 px-5 py-2 mt-6 text-sm tracking-wider uppercase duration-300 transform rounded-md focus:outline-none subBrandColor ">
-                  Request Services
-                  {/* Services pushes down to a list of services with the Donate call to action */}
-                </button>
+                <a href="mailto:robertosheart@gmail.com">
+                  <button class="text-black w-50 font-semibold h-16 px-5 py-2 mt-6 text-sm tracking-wider uppercase duration-300 transform rounded-md focus:outline-none subBrandColor ">
+                    Access Services
+                    {/* Services pushes down to a list of services with the Donate call to action */}
+                  </button>
+                </a>
               </div>
             </div>
 
@@ -68,10 +72,12 @@ export default function Mission() {
                   legal matters, tailored to your needs.
                 </p>
 
-                <button class="text-black w-50 font-semibold h-16 px-5 py-2 mt-6 text-sm tracking-wider uppercase duration-300 transform rounded-md focus:outline-none subBrandColor ">
-                  Request Services
-                  {/* Services pushes down to a list of services with the Donate call to action */}
-                </button>
+                <a href="mailto:robertosheart@gmail.com">
+                  <button class="text-black w-50 font-semibold h-16 px-5 py-2 mt-6 text-sm tracking-wider uppercase duration-300 transform rounded-md focus:outline-none subBrandColor ">
+                    Access Services
+                    {/* Services pushes down to a list of services with the Donate call to action */}
+                  </button>
+                </a>
               </div>
             </div>
 
@@ -95,10 +101,12 @@ export default function Mission() {
                   professionals to assist with your healing journey.
                 </p>
 
-                <button class="text-black w-50 font-semibold h-16 px-5 py-2 mt-6 text-sm tracking-wider uppercase duration-300 transform rounded-md focus:outline-none subBrandColor ">
-                  Request Services
-                  {/* Services pushes down to a list of services with the Donate call to action */}
-                </button>
+                <a href="mailto:robertosheart@gmail.com">
+                  <button class="text-black w-50 font-semibold h-16 px-5 py-2 mt-6 text-sm tracking-wider uppercase duration-300 transform rounded-md focus:outline-none subBrandColor ">
+                    Access Services
+                    {/* Services pushes down to a list of services with the Donate call to action */}
+                  </button>
+                </a>
               </div>
             </div>
           </div>

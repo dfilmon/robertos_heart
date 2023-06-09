@@ -12,20 +12,9 @@ export default function Testimonials() {
               alt=""
             /> */}
 
-            <video
-              class="object-cover object-center lg:w-1/2 lg:mx-6 w-full h-96 rounded-lg lg:h-[36rem]"
-              controls
-            >
-              <source
-                src="https://www.youtube.com/watch?v=TwWmfyKInKo&t=596s"
-                type="video/mp4"
-              />
-              <source
-                src="https://www.youtube.com/watch?v=TwWmfyKInKo&t=596s"
-                type="video/ogg"
-              />
-              Your browser does not support the video tag.
-            </video>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/834592846?h=892736685d" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
+
 
             <div class="mt-8 lg:w-1/2 lg:px-6 lg:mt-0">
               <p class="text-5xl font-semibold text-black-500 ">“</p>
@@ -35,10 +24,7 @@ export default function Testimonials() {
               </h1>
 
               <p class="max-w-lg mt-6 text-gray-500 dark:text-gray-400 ">
-                “ Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Tempore quibusdam ducimus libero ad tempora doloribus expedita
-                laborum saepe voluptas perferendis delectus assumenda rerum,
-                culpa aperiam dolorum, obcaecati corrupti aspernatur a. ”
+                “Without Love, there's no grief, Love continues to stay alive in our Hearts forever and never dies.”
               </p>
 
               <h3 class="mt-6 text-lg font-medium text-black-500">LaMona N. Marshall Brown</h3>
@@ -47,45 +33,7 @@ export default function Testimonials() {
               </p>
 
               <div class="flex items-center justify-between mt-12 lg:justify-start">
-                <button
-                  title="left arrow"
-                  class="p-2 text-gray-800 transition-colors duration-300 border rounded-full rtl:-scale-x-100 dark:border-gray-700 dark:text-gray-200 dark:hover:bg-gray-800 hover:bg-gray-100"
-                >
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    class="w-6 h-6"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                    stroke-width="2"
-                  >
-                    <path
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      d="M15 19l-7-7 7-7"
-                    />
-                  </svg>
-                </button>
-
-                <button
-                  title="right arrow"
-                  class="p-2 text-gray-800 transition-colors duration-300 border rounded-full rtl:-scale-x-100 dark:border-gray-700 dark:text-gray-200 dark:hover:bg-gray-800 lg:mx-6 hover:bg-gray-100"
-                >
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    class="w-6 h-6"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                    stroke-width="2"
-                  >
-                    <path
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      d="M9 5l7 7-7 7"
-                    />
-                  </svg>
-                </button>
+               
               </div>
             </div>
           </div>

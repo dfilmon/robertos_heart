@@ -1,9 +1,9 @@
 import React from 'react';
 import Nav from './components/Nav';
 import Hero from './components/Hero';
-import Mission from './components/Mission';
-import AboutUs from './components/AboutUs';
-import Donors from './components/Donors';
+import Services from './components/Services';
+import Story from './components/Story';
+import Partners from './components/Partners';
 import Team from './components/Team';
 import Volunteer from './components/Volunteer';
 import Adrienne from './components/Adrienne';
@@ -15,10 +15,10 @@ export default function App() {
     <div>
       <Nav />
       <Hero />
-      <Donors />
-      <Mission />
+      <Partners />
+      <Services />
       <Volunteer />
-      <AboutUs />
+      <Story />
       <Team />
     </div>
   );

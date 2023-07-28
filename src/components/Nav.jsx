@@ -67,7 +67,7 @@ export default function Nav() {
         </div>
         <ul class="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex lg:mx-auto lg:flex lg:items-center lg:w-auto lg:space-x-6">
           <li>
-            <a class="text-sm text-gray-400 hover:text-gray-500" href="#">
+            <a class="text-sm " href="#">
               Home
             </a>
           </li>
@@ -88,7 +88,7 @@ export default function Nav() {
             </svg>
           </li>
           <li>
-            <a class="text-sm brandColorText font-bold" href="#">
+            <a class="text-sm " href="#partners">
               Our Partners
             </a>
           </li>
@@ -109,7 +109,7 @@ export default function Nav() {
             </svg>
           </li>
           <li>
-            <a class="text-sm text-gray-400 hover:text-gray-500" href="#">
+            <a class="text-sm" href="#services">
               Our Services
             </a>
           </li>
@@ -129,8 +129,9 @@ export default function Nav() {
               />
             </svg>
           </li>
+
           <li>
-            <a class="text-sm text-gray-400 hover:text-gray-500" href="#">
+            <a class="text-sm" href="#story">
               Our Story
             </a>
           </li>
@@ -151,7 +152,7 @@ export default function Nav() {
             </svg>
           </li>
           <li>
-            <a class="text-sm text-gray-400 hover:text-gray-500" href="#">
+            <a class="text-sm" href="#team">
               Our Team
             </a>
           </li>
@@ -159,7 +160,8 @@ export default function Nav() {
 
         <a
           class="hidden lg:inline-block py-2 px-6 brandColor hover:bg-yellow-500 text-sm text-white font-bold rounded-xl transition duration-200"
-          href="#"
+          href="https://www.zeffy.com/en-US/donation-form/51f5945f-0b21-405b-91de-75a9310fe866"
+          target="_blank"
         >
           Donate
         </a>

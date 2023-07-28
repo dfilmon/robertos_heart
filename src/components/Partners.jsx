@@ -1,9 +1,9 @@
 import React from 'react';
 import './nav-style.css';
 
-export default function Donors() {
+export default function Partners() {
   return (
-    <div>
+    <div id="partners">
       <section class="bg-white dark:bg-gray-900 mt-12">
         <div class="max-w-6xl px-6 py-10 lg:mx-10 md:mx-10">
           <p class="text-xl font-medium brandColorText ">Honoring our</p>
@@ -18,7 +18,7 @@ export default function Donors() {
             <div class="mt-10 w-full p-6 subBrandColor md:items-center rounded-2xl md:bg-transparent md:p-0 lg:px-12 md:justify-evenly z-10  ">
               <img
                 class=" lg:h-96 lg:absolute lg:bottom-0  lg:left-12 sm:rounded-2xl rounded-2xl sm:h-24 sm:w-24  md:mx-6  lg:rounded-2xl sm:rounded-2xl object-cover shadow-md  md:w-30 md:h-30  lg:w-80 lg:h-[36rem] lg:w-[26rem] md:rounded-2xl"
-                src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81r9Esnu0sw-XQrHHUs738-63hwl2SQT0COBqj-eK7jZRVH7Wy3U7loFpTuYD5xK-AhoF0vo-RYOTTy59X5oo5JWOQbD=w1960-h2440"
+                src="https://lh3.googleusercontent.com/pw/AIL4fc9kqrKqsUofsOj1AwfMtLHAEdaWtnmUC86raITittxW9P2gz3z9tUO7marc9-ZFk8iHXO-Oa85TxISoNuwZ-8rO-M9Ce247kfC5lJmTl-hZXnajTiIW4HDQYDrcxOQ0ioKHdjZ9IKQXI1jUK7zlFAaQafWgrDiOZxkEQXLHvDvGlhRbtgXbKiaFLA6ekqOv1kMlzkXVL8PpNDYiXmJ_bEJXBiIj-BsZF8TGQgMZ_a39yD1j7CXE-i_nCYL63DeH_NvOES_TkrRGbLgOtg1gq2oa_Z0zkdctlS0djzqi7iZrFfe7BO8wvkHBtHT9OzwpgFt_X9uQKcsBfFZuDJnpSw5-roL1quoGQFG9sRBagZOTnWDtlX3fIjuV4AO4jCMbinPL4zbF_5Pu8O4unRMIyuvbc68xcLdMjoWvjIivKnTDGSzK1ZLc0Oy5LDR5p5wKp0wyr7Lj5JvwXFVD0WZN_i18t5wMStOSNQS0288KiC6HuWwyoYluBrH6sLt5yCoRceeFOgGnvmylNPYKzQj9g9lBPtJ-b7pKFYov621-2av05aLzqrTTHo4r7RlWpQHJD8yvf9BFUyBC7u8E2GNlBXmBNQZUwAQIxIOZu6Ytas-2MickVZwLCF7rDVALOsERg0OTR4QofeEg3zEee1KMjSDoL7x2KRPtBdNu73JnxCgj3kCHByKmOJAYrWkTTAzP_kIvlby5N2nz4LuYi1OIXnFzj7TTnc-H9J4FS1ulGstzeIW69diMNbl4Ygw1um3DryhjgQQKPPwbRqKJ7-sWvvNi8DDqPaV0J6xzItPvgFqw9_SLhtbg0i3xyGojj9LdjzyIe9O4ASS5fxWXLwdlvUQP0a_f5GqSNuEpF6Jz0LsQPQfq-4H5sFk03r6gYttoj8kpIaXl9aAE0l4rJygUQ_8VPf4=w1002-h1080-s-no?authuser=0"
                 alt="client photo"
               />
 
@@ -51,7 +51,7 @@ export default function Donors() {
             <div class="w-full p-6 subBrandColor md:items-center rounded-2xl md:bg-transparent md:p-0 lg:px-12 md:justify-evenly z-10  ">
               <img
                 class=" lg:h-96 lg:absolute lg:bottom-0  lg:left-12 sm:rounded-2xl rounded-2xl sm:h-24 sm:w-24  md:mx-6  lg:rounded-2xl sm:rounded-2xl object-cover shadow-md  md:w-30 md:h-30  lg:w-80 lg:h-[36rem] lg:w-[26rem] md:rounded-2xl"
-                src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oabp-d8i-pwYpsbO_JjXMOzISdTAOYkKBdUP2Cy1EdNid9iOfi5hmfbxXvLdRf4n9r4es2KvLm4h92BPJE9NbnwrL-=w1960-h2440"
+                src="https://lh3.googleusercontent.com/pw/AIL4fc9Zy2sM4PbY2GaPpnNhQ8Sg0dIvKmuRP7e5SYLPN0mmte5_0k9_BD3UWr5ZsDOlZWCoOHD7Xv9-qSlh7Uovy6a5XBNlgfqNyyCHhW1eHzTltv1Vj7yD9eg0h-P0FX7pXMCKlq7A_3Lvh5Y28CnAZC8PsZ5oeepNMGiEm4HXCZxVjldoe7PT7x4ANBYwEy4itwstwiB641L2-MiZw_bMDTS79bqrITW-88-MdW3JiGu_7ISdx4yT-lh0N5MNJOlOY7V0GrWwxgnHuhX2uaveB2RttL0b-nzR4LtEb1Rg_WzuL0wb3254rE-y3VMU2mWQ8MAr36du3x_03BEfftqagDVSY1zbsB1C4oCCcceIQ7_2eZJIJQc_1JeHlp3p8WD986h_WjFTZ-lL17JU9APDoPOU2CVk9y0phD9FkW84DfJ4c0IChuG4F2EmQFoULHPCex73F9q1rtnzgRrX61EWRQCP9QSvtNwvzCM7kX2OVh56DhklJfcEIiufAXkrmV1VBaTlZyWxmEWQRbWDRpYot86ee3iSUpQvNxtSg1ytebnA8PjQpQk_gguuciokCQZBwkIm-yFpOGgGrephsVV5OmhkI4zKaIV7BB22iwpqs9GPymlENYdbZHKh1Ibv7KWSbc-C4Ww0wX1McY7a6VlIklkf2PU9D-aBQ53JjORAKygwfRpqFdGO6dLRr_V-nm5NwWu-AdRyfKJzzgIfS-33ZK0BbsF2a2zyt9JlpNjsgYj9fy0f9BAdLOdQmGwOXz0Ng7vgkELpdsUOQicP6iCWmFpAJapU6EMn18YRSOI1LRpmFMV4RKU-07N_tT78UUMeFAQ-zBSqVZOWgdfQmolKoHD3ZqGvHGccaP7ZOGQ8a9oaZKvkoSgsG1BVAtNsBt6C71c0wHRx6zCWoFgxzamIAHDeC8c=w1002-h1080-s-no?authuser=0"
                 alt="client photo"
               />
 

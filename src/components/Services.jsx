@@ -1,8 +1,8 @@
 import React from 'react';
 
-export default function Mission() {
+export default function Services() {
   return (
-    <div>
+    <div id="services">
       <section class="bg-white dark:bg-gray-900">
         <div class="container px-6 py-10 mx-auto mt-24">
           <div class="text-center">

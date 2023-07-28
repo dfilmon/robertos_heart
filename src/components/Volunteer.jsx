@@ -25,8 +25,8 @@ export default function Team() {
 
             <div class="flex items-center mt-6 gap-x-3">
               <a href="mailto:robertosheart@gmail.com">
-                <button class="text-black w-50 font-semibold h-16 px-5 py-2 mt-6 text-sm tracking-wider uppercase duration-300 transform rounded-md focus:outline-none subBrandColor ">
-                  Volunteer
+                <button class="w-120 h-16 px-5 py-2 mt-6 text-sm tracking-wider text-white uppercase transition-colors duration-300 transform rounded-md  hover:subBrandColor focus:outline-none focus:brandColor font-bold brandColor">
+                  VOLUNTEER AT ROBERTO'S HEART
                   {/* Services pushes down to a list of services with the Donate call to action */}
                 </button>
               </a>

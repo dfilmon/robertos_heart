@@ -1,8 +1,8 @@
 import React from 'react';
 
-export default function Testimonials() {
+export default function Story() {
   return (
-    <div>
+    <div id="story">
       <section class="bg-white dark:bg-gray-900">
         <div class="container px-6 py-10 mx-auto">
           <div class="lg:-mx-6 lg:flex lg:items-center">
@@ -12,9 +12,14 @@ export default function Testimonials() {
               alt=""
             /> */}
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/834592846?h=892736685d" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
-
-
+            <iframe
+              title="vimeo-player"
+              src="https://player.vimeo.com/video/834592846?h=892736685d"
+              width="640"
+              height="360"
+              frameborder="0"
+              allowfullscreen
+            ></iframe>
 
             <div class="mt-8 lg:w-1/2 lg:px-6 lg:mt-0">
               <p class="text-5xl font-semibold text-black-500 ">“</p>
@@ -24,17 +29,16 @@ export default function Testimonials() {
               </h1>
 
               <p class="max-w-lg mt-6 text-gray-500 dark:text-gray-400 ">
-                “Without Love, there's no grief, Love continues to stay alive in our Hearts forever and never dies.”
+                “Without Love, there's no grief, Love continues to stay alive in
+                our Hearts forever and never dies.”
               </p>
 
-              <h3 class="mt-6 text-lg font-medium text-black-500">LaMona N. Marshall Brown</h3>
-              <p class="text-gray-600 dark:text-gray-300">
-                Founder & CEO
-              </p>
+              <h3 class="mt-6 text-lg font-medium text-black-500">
+                LaMona N. Marshall Brown
+              </h3>
+              <p class="text-gray-600 dark:text-gray-300">Founder & CEO</p>
 
-              <div class="flex items-center justify-between mt-12 lg:justify-start">
-               
-              </div>
+              <div class="flex items-center justify-between mt-12 lg:justify-start"></div>
             </div>
           </div>
         </div>

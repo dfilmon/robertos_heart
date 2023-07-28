@@ -4,7 +4,7 @@ import LaMonaPhoto from './LaMona.jpg';
 
 export default function Team() {
   return (
-    <div>
+    <div id="team">
       <section class="bg-white dark:bg-gray-900 mt-40 mb-40">
         <div class="container px-6 py-10 mx-auto">
           <h1 class="text-3xl font-semibold text-center text-gray-800 capitalize lg:text-4xl dark:text-white">
@@ -23,7 +23,7 @@ export default function Team() {
               <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group subBrandColor hover:subBrandColor dark:border-gray-700 dark:hover:border-transparent">
                 <img
                   class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300"
-                  src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81peeBDB4hf6IeHfW32jVrPwnKRM_DKg0RL7QMRz00mKvDk3hCUPC8_sqP5QeF6fbDedFwzHUIr3tyJq_lJ_efmXyjL1hw=w2560-h1321"
+                  src="https://lh3.googleusercontent.com/pw/AIL4fc-R7vjbWxtm-Oue_hUYGdWewin-mZ_lsSIZPUtxPqOgC-zZjBd4GYBWN1gc9hcpL6nXYeUpgd_8WKPxlzwa85eSYYAuD3Cz4Yo2gtGR4ipVRwxQXyPKmuKmMOsyaypeIxTHDrR86dvA49juAihy45bP=w1934-h1289-s-no?authuser=1"
                   alt=""
                 />
 
@@ -41,7 +41,7 @@ export default function Team() {
               <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group subBrandColor hover:subBrandColor dark:border-gray-700 dark:hover:border-transparent">
                 <img
                   class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300"
-                  src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oKwTg4GM8Uer6oLX9qRPuwJHcIrK60voV2Ddd1tqObolQyJUgWS9JRfbUe9Sx7wQyyLCkhyNEEX5hB66C52tBsBBzj3A=w2560-h1321"
+                  src="https://lh3.googleusercontent.com/pw/AIL4fc-wUErvMyTxsn0qsyBRRy_AvZNWlFijmuY71uLA646JlJ_hqbGODkaNh6D5vSmAGq-lC2w9eVRBqKnNAqj_GCjgbZDtpxmc9LUe_njdtsZ-JimrGKMqtSKKTBeQf9gtxWQVWyoGLpaAXUHId-S5XwgF=w1934-h1289-s-no?authuser=1"
                   alt=""
                 />
 
@@ -59,7 +59,7 @@ export default function Team() {
               <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group subBrandColor hover:subBrandColor dark:border-gray-700 dark:hover:border-transparent">
                 <img
                   class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300"
-                  src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81pgRv3snHlrtzCYbSO1ncGjfuxsq2dmgnJ1bF-bAP5ot8zOePnS62rJi3gZfvWcmMbonNhVQ4LHU4z6ph-VLiEd4k2crw=w2560-h1321"
+                  src="https://lh3.googleusercontent.com/pw/AIL4fc_O4EWjZxlO57NuWLJeFgxugWlQBuJs2Q6ecF8_coe_BP4rqaCf02cKif8FkZTquCPjkLJhQ9fCDPmwgmR7qlpSepTRQgja6Fh2SuOeJkvhhxZdpu4_PQ1aKABPu0uCOAQl6Ra5CX3vttGeQn7oJDEM=w1934-h1289-s-no?authuser=1"
                   alt=""
                 />
 
